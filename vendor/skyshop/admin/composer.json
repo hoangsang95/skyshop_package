@@ -1,0 +1,13 @@
+{
+    "name": "jteam/admin",
+    "description": "Template for admin",
+    "type": "project",
+    "license": "v1.0",
+    "authors": [
+        {
+            "name": "DAS",
+            "email": "duchd94mufc@gmail.com"
+        }
+    ],
+    "require": {}
+}
